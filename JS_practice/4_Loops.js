@@ -149,3 +149,6 @@ mycodeing.forEach((item)=>{
     console.log(item.langFile)
         
 })
+
+// forEach never returns anything => gives undefined output even if returned
+
