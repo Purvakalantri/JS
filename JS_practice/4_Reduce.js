@@ -15,6 +15,7 @@ console.log(NewNums)
 console.log("___________________________________")
 
 // reduce : Reduces array elements into single value
+// eg the shopping cart gives the total price of the items present in the cart
 
 const mynum2=[4,3,7]
 
