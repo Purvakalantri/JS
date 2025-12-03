@@ -14,7 +14,7 @@ const gamename= new String("Football"); // creating a string object using String
 console.log(gamename);
 console.log(gamename.valueOf()); // to get the primitive value of the string object
 console.log(gamename[0]);
-console.log(typeof gamename); // object
+console.log(typeof gamename); // object 
 
 const fruit="Mango";
 console.log(fruit);
